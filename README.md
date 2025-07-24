@@ -26,6 +26,22 @@ This project builds a machine learning pipeline to identify cross-selling opport
 
 - 📊 Delivered interactive dashboards to track real-time campaign and product performance, aiding strategic marketing decisions.
 
+---
+📊 Project Result
+The Power BI dashboard provides an intuitive and interactive view of:
+
+- Top Product Pairings: Highlights which products are frequently bought together.
+
+- Customer Segmentation: Breakdown of demographic groups and their coupon usage behavior.
+
+- Campaign Performance: Tracks metrics like coupon redemption rates, uplift, and revenue impact.
+
+- Sales Trend Visualization: Enables stakeholders to monitor transaction volumes over time.
+
+The dashboard equips decision-makers with actionable insights to optimize campaign targeting and improve ROI through data-backed cross-sell strategies.
+
+🖥 You can open the file Dashboard.pbix in Power BI Desktop or Dashboard.pdf to explore the results.
+
 
 ---
 
