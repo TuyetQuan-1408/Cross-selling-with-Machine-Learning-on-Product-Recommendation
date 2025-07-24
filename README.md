@@ -35,15 +35,4 @@ This project explores how machine learning can support targeted marketing and cr
 
 ---
 
-## 📁 Project Structure
-├── scripts/
-│ ├── association-rules.ipynb # Apriori & FP-Growth models
-│ ├── k-nearest-neighbor.ipynb # Collaborative Filtering (KNN)
-│ ├── SVD_Model.ipynb # SVD Recommendation Model
-│ └── data-cleaning.ipynb # Preprocessing & ETL
-├── Dashboard.pbix # Power BI Dashboard
-├── Dashboard.pdf # PDF export of dashboard
-├── Report.pdf # Full report and discussion
-├── .gitignore
-└── README.md
 
